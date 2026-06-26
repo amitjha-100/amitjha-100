@@ -27,8 +27,8 @@ Cybersecurity and Front-end Developer pursuing BCA at Maharshi Dayanand Universi
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Amit jha</h1>
+<h3 align="center">A passionate ethical hacker and front-end developer from India</h3>
 
 
 ###
@@ -38,11 +38,11 @@ Cybersecurity and Front-end Developer pursuing BCA at Maharshi Dayanand Universi
 ###
 - 🔭 I’m currently working on **Backend**
   
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+- 🌱 I’m currently learning **cloud security , AI**
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+- 💬 Ask me about **Python,Javascript,NodeJs,SQL**  
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+- 📫 How to reach me **amitjha18000@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
