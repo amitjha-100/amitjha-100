@@ -36,9 +36,9 @@ Cybersecurity and Front-end Developer pursuing BCA at Maharshi Dayanand Universi
 <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Front-end & Ethical hacking**
   
-- 🌱 I’m currently learning **cloud security , AI**
+- 🌱 I’m currently learning **cloud Security , AI**
 
 - 💬 Ask me about **Python,Javascript,NodeJs,SQL**  
 
