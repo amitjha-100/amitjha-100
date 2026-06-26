@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity enthusiast and Front-end Developer pursuing BCA at Maharshi Dayanand University with <br>hands-on experience in ethical hacking, security analysis, and web development. Completed multiple industry <br>simulations including Deloitte Australia Cyber Job Simulation and Tata Cybersecurity Analyst program. <br>Passionate about identifying vulnerabilities, implementing security solutions, and building secure, user<br>friendly applications. 
+Cybersecurity and Front-end Developer pursuing BCA at Maharshi Dayanand University with <br>hands-on experience in ethical hacking, security analysis, and web development. Completed multiple industry <br>simulations including Deloitte Australia Cyber Job Simulation and Tata Cybersecurity Analyst program. <br>Passionate about identifying vulnerabilities, implementing security solutions, and building secure, user<br>friendly applications. 
 
 
 ## 🌐 Socials:
