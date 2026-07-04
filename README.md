@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cybersecurity automation tools with Python<br>👯 I’m looking to collaborate on Ethical hacking and penetration testing tools<br>🤝 I’m looking for help with Red Team operations<br>🌱 I’m currently learning AI for Cybersecurity<br>💬 Ask me about Ethical Hacking<br>Linux<br>Python Automation<br>Web Security<br>Networking<br>OSINT<br>Cybersecurity Learning Resources<br>⚡ Fun fact I enjoy breaking things legally to understand how to secure them better. Every vulnerability I discover is another opportunity to learn and improve cybersecurity.
+🔭 I’m currently working on Cybersecurity automation tools with Python<br>👯 I’m looking to collaborate on Ethical hacking and penetration testing tools<br>🤝 I’m looking for help with Red Team operations<br>🌱 I’m currently learning AI for Cybersecurity<br>💬 Ask me about <br>Ethical Hacking<br>Linux<br>Python Automation<br>Web Security<br>Networking<br>OSINT<br>Cybersecurity Learning Resources<br>⚡ Fun fact I enjoy breaking things legally to understand how to secure them better. Every vulnerability I discover is another opportunity to learn and improve cybersecurity.
 
 
 ## 🌐 Socials:
