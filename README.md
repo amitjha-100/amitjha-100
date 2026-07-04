@@ -24,25 +24,8 @@ Cybersecurity and Front-end Developer pursuing BCA at Maharshi Dayanand Universi
 ---
 [![](https://visitcount.itsvg.in/api?id=amitjha-100&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![@amit-jha100(https://holopin.me/amit-jha100)](https://holopin.io/@amit-jha100)
-
-<h1 align="center">Hi 👋, I'm Amit jha</h1>
-<h3 align="center">A passionate ethical hacker and front-end developer from India</h3>
 
 
-###
-
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-- 🔭 I’m currently working on **Front-end & Ethical hacking**
-  
-- 🌱 I’m currently learning **cloud Security , AI**
-
-- 💬 Ask me about **Python,Javascript,NodeJs,SQL**  
-
-- 📫 How to reach me **amitjha18000@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
