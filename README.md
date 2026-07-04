@@ -30,5 +30,5 @@
   <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-(https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+
 
