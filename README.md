@@ -25,7 +25,7 @@ Cybersecurity and Front-end Developer pursuing BCA at Maharshi Dayanand Universi
 [![](https://visitcount.itsvg.in/api?id=amitjha-100&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![@amit-jha100(https://holopin.me/amit-jha100)](https://holopin.io/@abhinendrayadav3)
+[![@amit-jha100(https://holopin.me/amit-jha100)](https://holopin.io/@amit-jha100)
 
 <h1 align="center">Hi 👋, I'm Amit jha</h1>
 <h3 align="center">A passionate ethical hacker and front-end developer from India</h3>
